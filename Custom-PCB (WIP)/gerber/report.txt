@@ -1,0 +1,21 @@
+Warnung: Breitenkorrektur eingeschränkt.  Für die aktuellen Designregeln muss sich der Breitenkorrekturwert im Bereich [0,000001 mm; 0,199999 mm] befinden.
+Plotted to 'E:\Sparki\Dokumente\LuminO\LuminO-F_Cu.gbr'.
+Plotted to 'E:\Sparki\Dokumente\LuminO\LuminO-B_Cu.gbr'.
+Plotted to 'E:\Sparki\Dokumente\LuminO\LuminO-F_Paste.gbr'.
+Plotted to 'E:\Sparki\Dokumente\LuminO\LuminO-B_Paste.gbr'.
+Plotted to 'E:\Sparki\Dokumente\LuminO\LuminO-F_Silkscreen.gbr'.
+Plotted to 'E:\Sparki\Dokumente\LuminO\LuminO-B_Silkscreen.gbr'.
+Plotted to 'E:\Sparki\Dokumente\LuminO\LuminO-F_Mask.gbr'.
+Plotted to 'E:\Sparki\Dokumente\LuminO\LuminO-B_Mask.gbr'.
+Plotted to 'E:\Sparki\Dokumente\LuminO\LuminO-Edge_Cuts.gbr'.
+Plotted to 'E:\Sparki\Dokumente\LuminO\gerber\LuminO-F_Cu.gbr'.
+Plotted to 'E:\Sparki\Dokumente\LuminO\gerber\LuminO-B_Cu.gbr'.
+Plotted to 'E:\Sparki\Dokumente\LuminO\gerber\LuminO-F_Paste.gbr'.
+Plotted to 'E:\Sparki\Dokumente\LuminO\gerber\LuminO-B_Paste.gbr'.
+Plotted to 'E:\Sparki\Dokumente\LuminO\gerber\LuminO-F_Silkscreen.gbr'.
+Plotted to 'E:\Sparki\Dokumente\LuminO\gerber\LuminO-B_Silkscreen.gbr'.
+Plotted to 'E:\Sparki\Dokumente\LuminO\gerber\LuminO-F_Mask.gbr'.
+Plotted to 'E:\Sparki\Dokumente\LuminO\gerber\LuminO-B_Mask.gbr'.
+Plotted to 'E:\Sparki\Dokumente\LuminO\gerber\LuminO-Edge_Cuts.gbr'.
+Hinweis: Fertig.
+Hinweis: Fertig.
